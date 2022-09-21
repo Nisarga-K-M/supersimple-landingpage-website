@@ -287,6 +287,7 @@ header .navbar a:hover{
   font-size: 1.4rem;
   color:#666;
   padding:1rem 0;
+  text-transform:none;
 }
 
 .review .box-container .box .stars i{
@@ -510,5 +511,3 @@ header .navbar a:hover{
   }
 
 }
-
-
